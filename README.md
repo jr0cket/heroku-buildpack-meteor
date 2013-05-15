@@ -2,7 +2,7 @@
 
 This buildpack for Heroku will allow you to deploy a meteor appliction.  
 
-The buildpack uses a Mongodb plugin to hold the data that would otherwise be in minimongo.  The original author of this pack used MongoHQ addon, this has been swapped over to MongoLabs as they are the only Mongodb addon available in the EU region.
+The buildpack uses a Mongodb plugin to hold the data that would otherwise be in minimongo.  The original author of this pack used MongoHQ addon, this has been swapped over to [MongoLabs](https://addons.heroku.com/mongolab) as they are the only Mongodb addon available in the EU region.
 
 
 ## Usage
